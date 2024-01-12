@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">A Passionate MERN Developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajyadavy676&label=Profile%20views&color=0e75b6&style=flat" alt="surajyadavy676" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -24,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajyadavy676&show_icons=true&locale=en" alt="surajyadavy676" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajyadavy676&" alt="surajyadavy676" /></p>
+
+
+
+
