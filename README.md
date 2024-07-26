@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Suraj+Yadav.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-
 <h3 align='center'>
   A passionate MERN Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
@@ -13,7 +12,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
 <h3 align="center">A passionate MERN developer from India</h3> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=surajyadavy676&label=Profile%20views&color=0e75b6&style=flat" alt="surajyadavy676" /> </p>
+
+<p align="center" style="margin-bottom:20px"> <img src="https://komarev.com/ghpvc/?username=surajyadavy676&label=Profile%20views&color=0e75b6&style=flat" alt="surajyadavy676" /> </p>
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
