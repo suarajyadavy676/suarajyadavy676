@@ -18,9 +18,17 @@
 
 - 🌱 I’m currently practicing **DSA**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Tailwind CSS,Node JS,Express JS, MongoDB,Mongoose JS**
+🔭 I’m currently working on **Infiny School Project** using React.js,Tailwind,Chakra UI CSS,Node JS, Express JS,MongoDB <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-- 📫 How to reach me **surajyadavy676@gmail.com**
+🏫 I’m currently learning **MERN Full Stack Development**
+
+💻 Portfolio Project **[Suraj Yadav - Portfolio](https://suraj-yadav-portfolios.vercel.app/)**
+
+💬 Ask me about **HTML,CSS,JavaScript,React,Tailwind CSS,Node JS,Express JS, MongoDB,Mongoose JS,Data Structure and Algorithm**
+
+💗 Love to talk about **Research and Innovation!**
+
+📫 How to reach me **surajyadavy676@gmail.com**
 
 ## 🔰 Let's Connect:
 
