@@ -1,8 +1,8 @@
 
 <img src="./assets/banner.jpg" alt="Front End Developer Banner" width="100%" />
 <br/>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Suraj+Yadav.+You+are+Welcome!+%F0%9F%8C%9F+%E2%AD%90" alt="Typing SVG" />
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Suraj+Yadav.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 
