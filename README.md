@@ -1,5 +1,5 @@
 
-<div style="margin-left: 20px; margin-right: 20px;">
+<div style="margin-left: 30px; margin-right: 30px;">
 <img src="./assets/banner.jpg" alt="Front End Developer Banner" width="100%" />
 <br/>
 <h1 align='center'>
