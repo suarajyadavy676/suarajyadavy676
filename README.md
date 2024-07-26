@@ -82,6 +82,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=suarajyadavy676&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
+
 <p align = "right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarajyadavy676&show_icons=true&locale=en&layout=compact" alt="suarajyadavy676" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suarajyadavy676&show_icons=true&locale=en" alt="suarajyadavy676" /></p>
