@@ -1,4 +1,5 @@
 
+<div style="margin-left: 20px; margin-right: 20px;">
 <img src="./assets/banner.jpg" alt="Front End Developer Banner" width="100%" />
 <br/>
 <h1 align='center'>
@@ -8,10 +9,6 @@
 <h3 align='center'>
   A passionate MERN Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
-
-<!-- <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">A passionate MERN developer from India</h3> -->
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=surajyadavy676&label=Profile%20views&color=0e75b6&style=flat" alt="surajyadavy676" /> </p>
 
@@ -24,10 +21,6 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Tailwind CSS,Node JS,Express JS, MongoDB,Mongoose JS**
 
 - 📫 How to reach me **surajyadavy676@gmail.com**
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suraj-yadav1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-yadav1511" height="30" width="40" /></a>
-</p> -->
 
 ## 🔰 Let's Connect:
 
@@ -93,3 +86,4 @@
 
 
 
+</div>
