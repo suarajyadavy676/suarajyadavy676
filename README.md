@@ -93,6 +93,6 @@
        align="right" />
 </p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats"" alt="suarajyadavy676" /></p>
+<p align = "right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats"" alt="suarajyadavy676" /></p>
 
 </div>
