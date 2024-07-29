@@ -87,11 +87,11 @@
 
 <p align = "right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" alt="suarajyadavy676" /></p>
 
-<p align="right">
+<!--<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
        alt="suarajyadavy676's GitHub Stats" 
        align="right" />
-</p>
+</p> -->
 
 <p align = "right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats"" alt="suarajyadavy676" /></p>
 
