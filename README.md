@@ -85,14 +85,27 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-<p align = "right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" alt="suarajyadavy676" /></p>
+<p align="center">
+  <a href="https://github.com/suarajyadavy676">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suarajyadavy676&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-<!--<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-       alt="suarajyadavy676's GitHub Stats" 
-       align="right" />
-</p> -->
+<p align="center">
+  <a href="https://github.com/suarajyadavy676">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suarajyadavy676&theme=radical" alt="Chetan Khulage's GitHub Contribution"/>
+  </a>
+</p>
 
-<p align = "right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suarajyadavy676&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats"" alt="suarajyadavy676" /></p>
+<p align="center">
+<a> 
+<a href="https://github.com/suarajyadavy676"><img alt="Chetan Khulage's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=suarajyadavy676&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/suarajyadavy676"><img alt="Suraj Yadav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=suarajyadavy676&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="41.5%"/></a>
+  <br/>
+</a>
+</p>
+
+![Suraj Yadav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=suarajyadavy676&custom_title=Suraj%20Yadav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 </div>
